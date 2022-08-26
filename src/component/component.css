@@ -1,0 +1,158 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* NAV-LOGIN STYLING */
+.nav-top-main-container {
+    background-color: #0c0026;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: small;
+    height: 5vh;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-top-text {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-top-text:hover {
+    color: #00dbff;
+    text-decoration: none;
+}
+
+/* /////////NAV-BAR/////////// */
+.navbar-main-container {
+    background: linear-gradient(90deg, rgba(0,219,255,1) 0%, rgba(0,129,255,1) 100%);
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: small;
+}
+
+.nav-brand-style {
+    text-align: left;
+    font-weight: 900;
+    color: black;
+    font-size: larger;
+}
+
+.nav-menu-style {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+}
+
+.nav-text-menu {
+    color: black;
+    text-decoration: none;
+}
+
+.nav-text-menu:hover {
+    color: darkblue;
+}
+
+/* CARD  */
+.link-detail {
+    text-decoration: none;
+}
+
+.card-container {
+    margin: 10px;
+    align-items: center;
+    padding: 10px 10px 30px 10px;
+    background-color: rgba(21, 10, 48, 0.1);
+    position: relative;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
+    
+}
+
+.card-container:hover {
+    border: 1px solid #00dbff;
+}
+
+@media screen and (min-width: 992px) {
+    .card-container-img {
+        background-color: black;
+        height: 25vh;
+        overflow: hidden;
+        max-width: 100vw;
+    }
+}
+@media screen and (min-width: 576px) and (max-width:991px) {
+    .card-container-img {
+        background-color: black;
+        height: 40vh;
+        overflow: hidden;
+        max-width: 100vw;
+    }
+}
+
+.card-img {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
+    min-height: 35vh;
+    object-fit: cover;
+}
+
+.card-title {
+    padding: 20px 7px 0px 7px;
+    margin: 0;
+    font-weight: 600;
+    font-size: small;
+    color: white;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-decoration: none;
+    text-align: center;
+}
+
+.card-price {
+    font-weight: 500;
+    color: #00dbff;
+    margin: 0;
+    text-decoration: none;
+    font-size: smaller;
+    text-align: center;
+}
+
+.card-star {
+    color: gainsboro;
+    font-size: 7px;
+    text-align: center;
+}
+
+/* FOOTER */
+.bg-footer {
+    background-color: black;
+    padding-top: 20px;
+}
+
+.footer-container {
+    color: white;
+    padding: 30px 50px;
+}
+
+.heading-footer {
+    font-weight: 700;
+}
+
+
+/* //////////////////// */
+
+
+/* OLD */
+.container-menu {
+    display: flex;
+    justify-content: space-between;
+    align-Items: center;
+    height: fit-content;
+}

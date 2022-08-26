@@ -1,0 +1,267 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "URBAN CASUAL FASHION WHITE RED SNEAKER",
+      "category": "",
+      "brand": "SNEAKER",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 1000000,
+      "stock": 13,
+      "images": [
+        "https://i.pinimg.com/564x/79/98/06/79980650b074c736ccd6d35b7f8680ac.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "URBAN CASUAL FASHION WHITE BLUE SNEAKER",
+      "category": "",
+      "brand": "SNEAKER",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 1000000,
+      "stock": 10,
+      "images": [
+        "https://i.pinimg.com/564x/97/c5/38/97c53868184b987b26f89b631bc9f25d.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "URBAN CASUAL FASHION WHITE BLACK SNEAKER",
+      "category": "",
+      "brand": "SNEAKER",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 1000000,
+      "stock": 9,
+      "images": [
+        "https://i.pinimg.com/564x/42/eb/5a/42eb5a9bf7909352ae790064498b4be0.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "NIKE SNKRS",
+      "category": "",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 2000000,
+      "stock": 10,
+      "images": [
+        "https://i.pinimg.com/564x/a6/f5/e9/a6f5e9aabebdedec1f4e397a5dd20c84.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "NIKE AIR JORDAN",
+      "category": "",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 2000000,
+      "stock": 12,
+      "images": [
+        "https://i.pinimg.com/564x/97/96/ed/9796edf9dcbd7899bb290ada1ec243a4.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "NIKE NIKLAUS",
+      "category": "",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 2000000,
+      "stock": 10,
+      "images": [
+        "https://i.pinimg.com/564x/49/06/24/4906246f5681eba93c8e40ad2857b5a3.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ADIDAS NMD R1",
+      "category": "",
+      "brand": "ADIDAS",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 2000000,
+      "stock": 8,
+      "images": [
+        "https://i.pinimg.com/564x/0d/4a/29/0d4a294f08b9baeed1e6fb4971614e60.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ADIDAS TRAINER",
+      "category": "",
+      "brand": "ADIDAS",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 1500000,
+      "stock": 12,
+      "images": [
+        "https://i.pinimg.com/564x/ac/02/3c/ac023c999ff3492f76e0c0b7c9598106.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "ADIDAS GAZEL",
+      "category": "",
+      "brand": "ADIDAS",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 1500000,
+      "stock": 12,
+      "images": [
+        "https://i.pinimg.com/564x/4b/cc/70/4bcc70c245b189486a42b73edd3b6a41.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "VANS BRANCO",
+      "category": "",
+      "brand": "VANS",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 500000,
+      "stock": 12,
+      "images": [
+        "https://i.pinimg.com/736x/4f/5a/f6/4f5af60e015dd1f4a4ecfd5c0c689329.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "VANS OLD SCHOOL",
+      "category": "",
+      "brand": "VANS",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 500000,
+      "stock": 12,
+      "images": [
+        "https://i.pinimg.com/564x/75/4b/53/754b539fc0c977ee37e49f8648051386.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "VANS SK8 TOP",
+      "category": "",
+      "brand": "VANS",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 500000,
+      "stock": 12,
+      "images": [
+        "https://i.pinimg.com/564x/4e/4b/e5/4e4be5f7932a60d7e5cd871466796e72.jpg",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+    }
+  ],
+  "slider": [
+    {
+      "img": "https://i.pinimg.com/564x/f2/ab/e5/f2abe5d9d2c659c5fcd0bfb89c010551.jpg",
+      "title": "BEST PRODUCT THIS MONTH"
+    },
+    {
+      "img": "https://i.pinimg.com/564x/9c/e3/c5/9ce3c5a1b379ddc2570ae2fe6d489e36.jpg",
+      "title": "BEST SELLING THIS MONTH"
+    },
+    {
+      "img": "https://i.pinimg.com/736x/f3/d3/bd/f3d3bd4ad90fa46b2c1fe2b26b9e46f0.jpg",
+      "title": "BEST QUALITY IN THE WORLD"
+    },
+    {
+      "img": "https://i.pinimg.com/564x/cd/26/b9/cd26b93d219f1815331d571d345e86cd.jpg",
+      "title": "BEST DESIGN"
+    },
+    {
+      "img": "https://i.pinimg.com/564x/fd/63/9a/fd639a56bff63f8b4f76549a8285c90e.jpg",
+      "title": "BEST INSPIRATIONAL SHOES"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "admin0",
+      "password": "admin123",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "cart": []
+    },
+    {
+      "id": 2,
+      "username": "user0",
+      "password": "user123",
+      "email": "user@gmail.com",
+      "role": "user",
+      "cart": []
+    },
+    {
+      "username": "Cobalagi",
+      "email": "cobalagi@gmail.com",
+      "password": "1234567!",
+      "role": "user",
+      "cart": [],
+      "id": 3
+    },
+    {
+      "username": "responsive",
+      "email": "responsive@gmail.com",
+      "password": "1234567!",
+      "role": "user",
+      "cart": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "idUser": 4,
+      "username": "responsive",
+      "time": "8/24/2022",
+      "products": [
+        {
+          "id": 2,
+          "name": "URBAN CASUAL FASHION WHITE BLUE SNEAKER",
+          "brand": "SNEAKER",
+          "price": 1000000,
+          "images": "https://i.pinimg.com/564x/97/c5/38/97c53868184b987b26f89b631bc9f25d.jpg",
+          "maxStock": 10,
+          "qtyBuy": 3
+        },
+        {
+          "id": 4,
+          "name": "NIKE SNKRS",
+          "brand": "NIKE",
+          "price": 2000000,
+          "images": "https://i.pinimg.com/564x/a6/f5/e9/a6f5e9aabebdedec1f4e397a5dd20c84.jpg",
+          "maxStock": 10,
+          "qtyBuy": 3
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
