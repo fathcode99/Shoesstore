@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shoesstore/static/css/main.0651e59c.css",
+    "main.js": "/Shoesstore/static/js/main.1cc234de.js",
+    "index.html": "/Shoesstore/index.html",
+    "main.0651e59c.css.map": "/Shoesstore/static/css/main.0651e59c.css.map",
+    "main.1cc234de.js.map": "/Shoesstore/static/js/main.1cc234de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0651e59c.css",
+    "static/js/main.1cc234de.js"
+  ]
+}
